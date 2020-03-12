@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="auth_error">authentication failed</string>
+    <string name="success">Successful!</string>
+    <string name="not_registered_yet_sign_up">Not registered yet? Sign Up</string>
+    <string name="register">Register</string>
+    <string name="already_registered_back_to_login">Already registered? Back to login</string>
+    <string name="emailpassword_status_fmt">Email User: %1$s (verified: %2$b)</string>
+    <string name="firebase_status_fmt">Firebase UID: %s</string>
+    <string name="signed_out">Signed Out</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="verify_email">Verify Email</string>
+    <string name="register_screen">Register Screen</string>
+    <string name="login_screen">Login Screen</string>
+    <string name="account_screen">Account Screen</string>
+
+</resources>
